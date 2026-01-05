@@ -1,9 +1,0 @@
-streamlit
-pandas
-numpy
-pydeck
-geopy
-openrouteservice
-openpyxl
-ortools
-folium streamlit-folium
